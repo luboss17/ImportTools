@@ -1,0 +1,14 @@
+C:\Users\huyhu\source\repos\ImportToolsApp\ImportToolsApp\obj\Debug\netcoreapp2.1\ImportToolsApp.csprojAssemblyReference.cache
+C:\Users\huyhu\source\repos\ImportToolsApp\ImportToolsApp\obj\Debug\netcoreapp2.1\ImportToolsApp.csproj.CoreCompileInputs.cache
+C:\Users\huyhu\source\repos\ImportToolsApp\ImportToolsApp\obj\Debug\netcoreapp2.1\ImportToolsApp.AssemblyInfoInputs.cache
+C:\Users\huyhu\source\repos\ImportToolsApp\ImportToolsApp\obj\Debug\netcoreapp2.1\ImportToolsApp.AssemblyInfo.cs
+C:\Users\huyhu\source\repos\ImportToolsApp\ImportToolsApp\bin\Debug\netcoreapp2.1\ImportToolsApp.deps.json
+C:\Users\huyhu\source\repos\ImportToolsApp\ImportToolsApp\bin\Debug\netcoreapp2.1\ImportToolsApp.runtimeconfig.json
+C:\Users\huyhu\source\repos\ImportToolsApp\ImportToolsApp\bin\Debug\netcoreapp2.1\ImportToolsApp.runtimeconfig.dev.json
+C:\Users\huyhu\source\repos\ImportToolsApp\ImportToolsApp\bin\Debug\netcoreapp2.1\ImportToolsApp.dll
+C:\Users\huyhu\source\repos\ImportToolsApp\ImportToolsApp\bin\Debug\netcoreapp2.1\ImportToolsApp.pdb
+C:\Users\huyhu\source\repos\ImportToolsApp\ImportToolsApp\bin\Debug\netcoreapp2.1\Excel.dll
+C:\Users\huyhu\source\repos\ImportToolsApp\ImportToolsApp\bin\Debug\netcoreapp2.1\Excel.xml
+C:\Users\huyhu\source\repos\ImportToolsApp\ImportToolsApp\obj\Debug\netcoreapp2.1\ImportToolsApp.csproj.CopyComplete
+C:\Users\huyhu\source\repos\ImportToolsApp\ImportToolsApp\obj\Debug\netcoreapp2.1\ImportToolsApp.dll
+C:\Users\huyhu\source\repos\ImportToolsApp\ImportToolsApp\obj\Debug\netcoreapp2.1\ImportToolsApp.pdb
